@@ -1,0 +1,1 @@
+# SOC-Home-Lab-C2-Detection-Credential-Extraction-Monitoring
